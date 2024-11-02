@@ -13,7 +13,7 @@ const port = process.env.PORT || 5000;
 
 // CORS options
 const corsOptions = {
-  origin: 'http://localhost:3000', // Adjust if deploying to a different origin
+  origin: 'https://h2opolostatistics.onrender.com', // Adjust if deploying to a different origin
   optionsSuccessStatus: 200,
 };
 
